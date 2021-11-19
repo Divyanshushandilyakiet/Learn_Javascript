@@ -1,4 +1,4 @@
-1.WAYS TO PRINT IN JAVASCRIPT
+//1.WAYS TO PRINT IN JAVASCRIPT
 
 console.log("Hello world");
 alert("me");
