@@ -1,0 +1,13 @@
+//9. Arrays
+//let myArr=["Divyanshu",'sharma','modinagar',2,null,true];
+// console.log(myArr.length);
+// myArr.pop();
+// console.log(myArr);
+// myArr.push("Pandit");
+// console.log(myArr);
+// myArr.shift();
+// console.log(myArr);
+// myArr.unshift("Pandit");
+// console.log(myArr);
+// myArr.toString();
+// console.log(myArr);
