@@ -24,3 +24,20 @@
 // console.log(x>=y);
 // console.log(x<y);
 // console.log(x>y);
+
+// Logical operators
+// a.And operator
+// console.log(true&&true);
+// console.log(false&&true);
+// console.log(true&&false);
+// console.log(false&&false);
+
+// b.Or Operator
+// console.log(true||true);
+// console.log(false||true);
+// console.log(true||false);
+// console.log(false||false);
+
+// c.Not operator
+// console.log(!true);
+// console.log(!false);
